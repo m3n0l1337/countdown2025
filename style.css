@@ -4,7 +4,7 @@
 
 body {
   background-color: rgb(12, 65, 49);
-  background-image: url("./img/bg3.jpg");
+  background-image: url("./img/christmas-tree-background_1071931-66229.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
@@ -141,3 +141,4 @@ body::after {
     opacity: 0;
   }
 }
+
